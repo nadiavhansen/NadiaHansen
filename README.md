@@ -119,4 +119,4 @@ Projeto open source, sem utilização de licenças ou restrições de uso.
 
 ## Status do projeto
 
-Versão inicial 1.0 concluída e entre em 29/01/2021.
+Versão inicial 1.0 concluída e entregue em 29/01/2021.
